@@ -1,34 +1,18 @@
 [0]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 KernelDensityEstimate = "2472808a-b354-52ea-a80e-1658a3c6056d"
 NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
-
-["0-0.2"]
-Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
-Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
-GraphViz = "16d363e1-28f1-5f2b-b949-57f6f2d5f8ba"
-
-["0.0.2-0.2.2"]
-TransformUtils = "9b8138ad-1b09-5408-aa39-e87ed6d21b63"
-
-["0.2.10-0.3"]
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
-
-["0.2.4-0"]
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
-
-["0.2.6-0"]
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 
-["0.2.6-0.3"]
+["0-0.3"]
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
 
-["0.2.6-0.4.0"]
+["0-0.4.0"]
 HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
-
-["0.3.2-0"]
-DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 
 ["0.3.8-0"]
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"

@@ -1,18 +1,15 @@
 [0]
+Conda = "0-1"
+Distributions = "0"
+PyCall = "0-1"
 Reexport = "0"
 StaticArrays = "0"
-
-["0-0.1"]
-GroupSlices = "0"
-julia = "0.6"
-
-["0-0.1.0"]
-Simplices = "0"
 
 ["0-0.2"]
 DynamicalSystems = "0-1"
 DynamicalSystemsBase = "0-1"
 Parameters = "0"
+julia = "0.7-1"
 
 ["0-0.2.1"]
 Plots = "0"
@@ -20,18 +17,7 @@ Plots = "0"
 ["0-0.2.2"]
 RecipesBase = "0"
 
-["0.1.1-0.1"]
-Simplices = "0-0.1"
-
-["0.2"]
-julia = "0.7-1"
-
-["0.2-0"]
-Conda = "0-1"
-Distributions = "0"
-PyCall = "0-1"
-
-["0.2-0.3"]
+["0-0.3"]
 Simplices = "0.2.1-0"
 
 ["0.3-0"]

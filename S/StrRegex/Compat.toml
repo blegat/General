@@ -1,41 +1,17 @@
-["0-0.1.0"]
-PCRE2 = "0"
-StrBase = "0"
-
-["0-0.1.2"]
-julia = "0.6-0"
-
-["0.1.1"]
-CharSetEncodings = "0.1.1-0"
-ChrBase = "0.1.1-0"
-StrAPI = "0.1.1-0"
-StrBase = "0.1.1-0"
-
-["0.1.1-0.1.2"]
-ModuleInterfaceTools = "0.1.2-0"
-MurmurHash3 = "0.1.2-0"
-PCRE2 = "0.1.1-0"
-
-["0.1.2"]
-CharSetEncodings = "0.1.2-0"
-ChrBase = "0.1.2-0"
-StrAPI = "0.1.2-0"
-StrBase = "0.1.2-0"
-
-["0.1.4"]
-CharSetEncodings = "0.1.6-0"
-ChrBase = "0.1.3-0"
-StrBase = "0.1.5-0"
-
-["0.1.4-0.1"]
+["0-0.1"]
 MurmurHash3 = "0.1.5-0"
 PCRE2 = "0.1.2-0"
 julia = "0.6-1"
 
-["0.1.4-0.1.5"]
+["0-0.1.4"]
+CharSetEncodings = "0.1.6-0"
+ChrBase = "0.1.3-0"
+StrBase = "0.1.5-0"
+
+["0-0.1.5"]
 StrAPI = "0.1.7-0"
 
-["0.1.4-0.1.6"]
+["0-0.1.6"]
 ModuleInterfaceTools = "0.1.6-0"
 
 ["0.1.5"]

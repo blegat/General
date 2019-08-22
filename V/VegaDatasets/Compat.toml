@@ -1,31 +1,17 @@
-["0-0.1"]
-DataFrames = "0"
-
-["0-0.3"]
-TextParse = "0"
-julia = "0.6-0"
+[0]
+TextParse = "0.6-0"
+julia = "0.7-1"
 
 ["0-0.4.0"]
-JSON = "0"
-
-["0.1"]
-Missings = "0"
-
-["0.2-0.4.0"]
 DataStructures = "0"
 DataValues = "0"
+FilePaths = "0"
 IterableTables = "0"
 IteratorInterfaceExtensions = "0-1"
+JSON = "0"
 TableShowUtils = "0"
 TableTraits = "0-1"
 TableTraitsUtils = "0-1"
-
-["0.3-0.4.0"]
-FilePaths = "0"
-
-["0.4-0"]
-TextParse = "0.6-0"
-julia = "0.7-1"
 
 ["0.4.1-0"]
 DataStructures = "0.11-0"

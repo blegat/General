@@ -1,11 +1,9 @@
 [0]
-WoodburyMatrices = "efce3f68-66dc-5838-9240-27a6d6f5f9b6"
-
-["0.1.1-0"]
 AxisAlgorithms = "13072b0f-2c55-5437-9ae7-d433b7a33950"
 Ratios = "c84ed2f1-dad5-54f0-aa8e-dbefe2724439"
+WoodburyMatrices = "efce3f68-66dc-5838-9240-27a6d6f5f9b6"
 
-["0.3.6-0.8"]
+["0-0.8"]
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 
 ["0.3.7-0.7"]

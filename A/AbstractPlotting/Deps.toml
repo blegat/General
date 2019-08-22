@@ -6,9 +6,16 @@ FreeType = "b38be410-82b0-50bf-ab77-7b57e271db43"
 FreeTypeAbstraction = "663a7486-cb36-511b-a19d-713bb74d65c9"
 GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
 IntervalSets = "8197267c-284f-5f27-9208-e0e47529a953"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Packing = "19eb6ba3-879d-56ad-ad62-d5c202156566"
+PlotUtils = "995b91a9-d308-5afd-9ec6-746e21dbc043"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+Showoff = "992d4aef-0814-514b-bc4d-f2e9a6c4116f"
 SignedDistanceFields = "73760f76-fbc4-59ce-8f25-708e95d2df96"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 UnicodeFun = "1cfade01-22cf-5700-b092-accc4b62d6e1"
 
 ["0-0.9.0"]
@@ -16,18 +23,6 @@ Reactive = "a223df75-4e93-5b7c-acf9-bdd599c0f4de"
 
 ["0-0.9.7"]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
-
-["0.0"]
-Fontconfig = "186bb1d3-e1f7-5a2c-a377-96d770f13627"
-
-["0.9-0"]
-LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-PlotUtils = "995b91a9-d308-5afd-9ec6-746e21dbc043"
-Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
-Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
-Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
-Showoff = "992d4aef-0814-514b-bc4d-f2e9a6c4116f"
-Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
 ["0.9.1-0"]
 Contour = "d38c429a-6771-53c6-b99e-75d170b6e991"
